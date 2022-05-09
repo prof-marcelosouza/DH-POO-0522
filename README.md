@@ -36,20 +36,20 @@
   <li><strong>long</strong> - Inteiros muito grandes:</li>
       <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
-	      <li><strong>-9.223.372.036.854.770.000</strong></li>
-	      <li><strong>9.223.372.036.854.769.999</strong></li>
+	      <li><strong>-9.223.372.036.854.775.808</strong></li>
+	      <li><strong>9.223.372.036.854.775.807</strong></li>
       </ul>
   <li><strong>float</strong> - Número com vírgula, menor capacidade:</li>
       <ul>
 		  <li>Tamanho: 32 bits (4 bytes)</li>
-	      <li><strong>-1,4024E-37</strong></li>
-	      <li><strong>3,40282347E + 38</strong></li>
+	      <li><strong>-3,402823e38</strong></li>
+	      <li><strong>3,402823e38</strong></li>
       </ul>
   <li><strong>double</strong> - Número com vírgula, maior capacidade:</li>
 	  <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
-	      <li><strong>-4,94E-307</strong></li>
-	      <li><strong>1,79769313486231570E+308</strong></li>
+	      <li><strong>-1,79769313486232e308</strong></li>
+	      <li><strong>1,79769313486232e308</strong></li>
       </ul>
   <li><strong>String:</strong> - Cadeia de caracteres.</li>
   <li><strong>char:</strong> - Um caractere (Ex: 'a') Unicode.</li>
