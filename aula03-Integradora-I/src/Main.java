@@ -34,8 +34,8 @@ public class Main {
         System.out.print("Digite a quantidade de ração: ");
         float quantidade = ler.nextFloat();
 
-        int valor = quantosPacotes(quantidade); // 5
-        System.out.printf("Seu cachorro precisará de %d pacotes.", valor);
+        int valor = quantosPacotes(quantidade);
+        System.out.printf("Seu(ua) cachorro(a) %s precisará de %d pacotes de ração.", nome, valor);
 
         ler.close();
     }
