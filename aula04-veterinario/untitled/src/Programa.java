@@ -10,7 +10,7 @@ public class Programa {
         Veterinario v2 = new Veterinario(
                 "Roberto","Matias", "CRV-12555", 3600.40);
 
-        double salario = 2500.25;
+        double salario = 2550.25;
 
         //v1.nome = "Joana";
         //v1.sobrenome = "Ribeiro";
