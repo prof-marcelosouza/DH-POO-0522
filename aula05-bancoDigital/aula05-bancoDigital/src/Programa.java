@@ -18,11 +18,9 @@ public class Programa {
         System.out.println(c2);
 
         c2.aumentarDivida(250.0);
-
         System.out.println(c2);
 
         c2.pagarDivida(250.0);
-
         System.out.println(c2);
     }
 }
