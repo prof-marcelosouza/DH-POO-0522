@@ -17,7 +17,7 @@
   <li><strong>Alt + Insert:</strong> Abre o menu generate.</li>
   <li><strong>Alt + Enter:</strong> Abre sugestões automáticas.</li>
   <li><strong>Digitar main + TAB:</strong> Autocompleta o método main.</li>
-  <li><strong>Digitar sout + TAB:</strong> Autocompleta o System.out.println</li>
+  <li><strong>Digitar sout + TAB:</strong> Autocompleta o System.out.println.</li>
 </ul>
 
 <h3>Tipos de dados primitivos em Java</h3>
