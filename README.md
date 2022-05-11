@@ -89,7 +89,7 @@
 	      <li><strong>1,79769313486232e308</strong></li>
       </ul>
   <li><strong>String:</strong> Cadeia de caracteres.</li>
-  <li><strong>char:</strong> - Um caractere (Ex: 'a') Unicode.</li>
+  <li><strong>char:</strong> Um caractere (Ex: 'a') Unicode.</li>
 	  <ul>
 		  <li>Tamanho: 16 bits (1 byte)</li>
 	      <li><strong>0</strong></li>
