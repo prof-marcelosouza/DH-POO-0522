@@ -52,50 +52,50 @@
 
 <h3>Tipos de dados primitivos em Java</h3>
 <ul>
-  <li><strong>byte</strong> - Inteiros Pequenos:</li>
+  <li><strong>byte:</strong> Inteiros Pequenos:</li>
       <ul>
 		  <li>Tamanho: 8 bits (1 byte)</li>
 	      <li><strong>-128</strong></li>
 	      <li><strong>127</strong></li>
       </ul>
-  <li><strong>short</strong> - Inteiros:</li>
+  <li><strong>short:</strong> Inteiros:</li>
       <ul>
 		  <li>Tamanho: 16 bits (2 bytes)</li>
 	      <li><strong>-32768</strong></li>
 	      <li><strong>32767</strong></li>
       </ul>
-  <li><strong>int</strong> - Inteiros grandes:</li>
+  <li><strong>int:</strong> Inteiros grandes:</li>
       <ul>
 		  <li>Tamanho: 32 bits (4 bytes)</li>
 	      <li><strong>-2.147.483.648</strong></li>
 	      <li><strong>2.147.483.647</strong></li>
       </ul>
-  <li><strong>long</strong> - Inteiros muito grandes:</li>
+  <li><strong>long:</strong> Inteiros muito grandes:</li>
       <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
 	      <li><strong>-9.223.372.036.854.775.808</strong></li>
 	      <li><strong>9.223.372.036.854.775.807</strong></li>
       </ul>
-  <li><strong>float</strong> - Número com vírgula, menor capacidade:</li>
+  <li><strong>float:</strong> Número com vírgula, menor capacidade:</li>
       <ul>
 		  <li>Tamanho: 32 bits (4 bytes)</li>
 	      <li><strong>-3,402823e38</strong></li>
 	      <li><strong>3,402823e38</strong></li>
       </ul>
-  <li><strong>double</strong> - Número com vírgula, maior capacidade:</li>
+  <li><strong>double:</strong> Número com vírgula, maior capacidade:</li>
 	  <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
 	      <li><strong>-1,79769313486232e308</strong></li>
 	      <li><strong>1,79769313486232e308</strong></li>
       </ul>
-  <li><strong>String:</strong> - Cadeia de caracteres.</li>
+  <li><strong>String:</strong> Cadeia de caracteres.</li>
   <li><strong>char:</strong> - Um caractere (Ex: 'a') Unicode.</li>
 	  <ul>
 		  <li>Tamanho: 16 bits (1 byte)</li>
 	      <li><strong>0</strong></li>
 	      <li><strong>65535</strong></li>
       </ul>
-  <li><strong>boolean:</strong> - Verdadeiro ou falso (true/false).</li>
+  <li><strong>boolean:</strong> Verdadeiro ou falso (true/false).</li>
 	  <ul>
 		  <li>Tamanho: 1 bit</li>
 	      <li><strong>false</strong></li>
