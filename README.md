@@ -1,6 +1,25 @@
 # CTD | Programação Orientada à Objetos | POO
 <h5>Prof. Marcelo Gonçalves de Souza</h5>
 
+<h3>Ferramentas - downloads</h3>
+<ul>
+  <li><strong>Java SE Development Kit 17.0.3.1</strong></li>
+  <li><strong>Windows x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip</li>
+  <li><strong>Linux x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_linux-x64_bin.tar.gz</li>
+  <li><strong>macOS x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_macos-x64_bin.tar.gz</li>
+</ul>
+
+<ul>
+  <li><strong>IntelliJ IDEA</strong></li>
+  <li><strong>Windows x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC</li>
+  <li><strong>Linux x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=linux&code=IIC</li>
+  <li><strong>macOS x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=mac&code=IIC</li>
+</ul>
+
+<ul>
+  <li><strong>DRAWIO UML</strong> https://app.diagrams.net/</li>
+</ul>
+
 <h3>Atalhos para o IntelliJ IDEA</h3>
 <ul>
   <li><strong>F1:</strong> Abre o browser padrão no Help de noções básicas do editor.</li>
