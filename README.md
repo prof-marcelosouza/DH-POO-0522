@@ -27,8 +27,8 @@
 </ul>
 
 <ul>
-  <li><strong>DRAWIO UML</strong></li>
-    https://app.diagrams.net/
+  <li><strong>Drawio UML</strong></li>
+  https://app.diagrams.net/
 </ul>
 
 <h3>Atalhos para o IntelliJ IDEA</h3>
