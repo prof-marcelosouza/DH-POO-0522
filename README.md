@@ -5,30 +5,30 @@
 <ul>
   <li><strong>Java SE Development Kit 17.0.3.1</strong></li>
   <ul>
-	<li><strong>Windows x64 Compressed Archive</strong></li>
-      <ul>
-		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip</li>	    
-	  </ul>
-	<li><strong>Linux x64 Compressed Archive</strong></li>
-      <ul>
-		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_linux-x64_bin.tar.gz</li>	    
-	  </ul>
-	<li><strong>macOS x64 Compressed Archive</strong></li>
-	  <ul>
-		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_macos-x64_bin.tar.gz</li>	    
-	  </ul>
+	<li><strong>Windows x64 Compressed Archive</strong></li>     
+		https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip	  
+	<li><strong>Linux x64 Compressed Archive</strong></li>     
+		https://download.oracle.com/java/17/archive/jdk-17.0.3.1_linux-x64_bin.tar.gz	  
+	<li><strong>macOS x64 Compressed Archive</strong></li>	  
+		https://download.oracle.com/java/17/archive/jdk-17.0.3.1_macos-x64_bin.tar.gz	  
   </ul>
 </ul>
 
 <ul>
   <li><strong>IntelliJ IDEA</strong></li>
-  <li><strong>Windows x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC</li>
-  <li><strong>Linux x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=linux&code=IIC</li>
-  <li><strong>macOS x64</strong> https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=mac&code=IIC</li>
+  <ul>
+	<li><strong>Windows x64</strong></li>     
+	https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC	  
+	<li><strong>Linux x64</strong></li>     
+    https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=linux&code=IIC
+	<li><strong>macOS x64</strong></li>	  
+    https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=mac&code=IIC
+  </ul>
 </ul>
 
 <ul>
-  <li><strong>DRAWIO UML</strong> https://app.diagrams.net/</li>
+  <li><strong>DRAWIO UML</strong></li>
+  https://app.diagrams.net/
 </ul>
 
 <h3>Atalhos para o IntelliJ IDEA</h3>
