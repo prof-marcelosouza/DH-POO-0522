@@ -4,9 +4,20 @@
 <h3>Ferramentas - downloads</h3>
 <ul>
   <li><strong>Java SE Development Kit 17.0.3.1</strong></li>
-  <li><strong>Windows x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip</li>
-  <li><strong>Linux x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_linux-x64_bin.tar.gz</li>
-  <li><strong>macOS x64 Compressed Archive</strong> https://download.oracle.com/java/17/archive/jdk-17.0.3.1_macos-x64_bin.tar.gz</li>
+  <ul>
+	<li><strong>Windows x64 Compressed Archive</strong></li>
+      <ul>
+		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.zip</li>	    
+	  </ul>
+	<li><strong>Linux x64 Compressed Archive</strong></li>
+      <ul>
+		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_linux-x64_bin.tar.gz</li>	    
+	  </ul>
+	<li><strong>macOS x64 Compressed Archive</strong></li>
+	  <ul>
+		<li>https://download.oracle.com/java/17/archive/jdk-17.0.3.1_macos-x64_bin.tar.gz</li>	    
+	  </ul>
+  </ul>
 </ul>
 
 <ul>
