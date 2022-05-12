@@ -46,6 +46,7 @@
 <ul>
   <li><strong>Alt + Insert:</strong> Abre o menu generate.</li>
   <li><strong>Alt + Enter:</strong> Abre sugestões automáticas.</li>
+  <li><strong>Ctrl + d:</strong> Duplica a linha corrente.</li>
   <li><strong>Digitar main + TAB:</strong> Autocompleta o método main.</li>
   <li><strong>Digitar sout + TAB:</strong> Autocompleta o System.out.println.</li>
 </ul>
@@ -91,7 +92,7 @@
   <li><strong>String:</strong> Cadeia de caracteres.</li>
   <li><strong>char:</strong> Um caractere (Ex: 'a') Unicode.</li>
 	  <ul>
-		  <li>Tamanho: 16 bits (1 byte)</li>
+		  <li>Tamanho: 16 bits (2 bytes)</li>
 	      <li><strong>0</strong></li>
 	      <li><strong>65535</strong></li>
       </ul>
@@ -101,4 +102,14 @@
 	      <li><strong>false</strong></li>
 	      <li><strong>true</strong></li>
       </ul>
+</ul>
+
+<h3>Classe Scanner - entrada de dados via console</h3>
+<ul>
+  <li><strong>Scanner sc = new Scanner(System.in);</strong></li>
+  <li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços).</li>
+  <li><strong>sc.next().charAt(0)</strong> - para ler um caractere.</li>
+  <li><strong>sc.nextLine().charAt(0)</strong> - para ler um texto até a quebra de linha.</li>
+  <li><strong>sc.nextInt</strong> - para ler um número inteiro.</li>
+  <li><strong>sc.nextDouble()</strong> - para ler um número com ponto flutuante.</li>
 </ul>
