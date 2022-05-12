@@ -107,9 +107,9 @@
 <h3>Classe Scanner - entrada de dados via console</h3>
 <ul>
   <li><strong>Scanner sc = new Scanner(System.in);</strong></li>
-  <li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços).</li>
-  <li><strong>sc.next().charAt(0)</strong> - para ler um caractere.</li>
-  <li><strong>sc.nextLine().charAt(0)</strong> - para ler um texto até a quebra de linha.</li>
-  <li><strong>sc.nextInt</strong> - para ler um número inteiro.</li>
+  <li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços);</li>
+  <li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
+  <li><strong>sc.nextLine()</strong> - para ler um texto até a quebra de linha;</li>
+  <li><strong>sc.nextInt</strong> - para ler um número inteiro;</li>
   <li><strong>sc.nextDouble()</strong> - para ler um número com ponto flutuante.</li>
 </ul>
