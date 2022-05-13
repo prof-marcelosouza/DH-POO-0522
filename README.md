@@ -111,5 +111,26 @@
   <li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
   <li><strong>sc.nextLine()</strong> - para ler um texto até a quebra de linha;</li>
   <li><strong>sc.nextInt</strong> - para ler um número inteiro;</li>
-  <li><strong>sc.nextDouble()</strong> - para ler um número com ponto flutuante.</li>
+  <li><strong>sc.nextFloat()</strong> - para ler um número do tipo float com ponto flutuante.</li>
+  <li><strong>sc.nextDouble()</strong> - para ler um número do tipo double com ponto flutuante.</li>
+</ul>
+
+<h3>Tipos de saídas via console</h3>
+<ul>
+  <li><strong>System.out</strong></li>
+  <ul>
+    <li><strong>System.out.print</strong> - Escrever na tela sem quebra de linha.</li>
+  </ul>
+  <ul>
+    <li><strong>System.out.println</strong> - Escrever na tela com quebra de linha.</li>
+  </ul>
+  <ul>
+    <li><strong>System.out.printf</strong> - Escrever na tela de forma incorporada textos e váriáveis.</li>
+	  <ul>
+	    <li>%d - inteiro</li>
+	    <li>%f - ponto flutuante</li>
+	    <li>%s - texto</li>
+	    <li>%n - quebra de linha</li>
+	  </ul>
+  </ul>
 </ul>
