@@ -1,7 +1,7 @@
 # CTD | Programação Orientada à Objetos | POO
 <h5>Prof. Marcelo Gonçalves de Souza</h5>
 
-<h3>Ferramentas - downloads</h3>
+<h3>Ferramentas - Downloads</h3>
 <ul>
   <li><strong>Java SE Development Kit 17.0.3.1</strong></li>
   <ul>
