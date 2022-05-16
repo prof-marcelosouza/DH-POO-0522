@@ -30,8 +30,9 @@
   <li><strong>Drawio UML</strong></li>
 	<ul>
 		<li><strong>https://app.diagrams.net/</li></strong>
-	<ul>
+	</ul>
 </ul>
+
 
 <h3>Atalhos para o IntelliJ IDEA</h3>
 <ul>
