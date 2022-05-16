@@ -127,16 +127,17 @@
   <li><strong>Scanner sc = new Scanner(System.in);</strong> - Para instanciar um objeto da Classe Scanner;</li>
   <li><strong>Locale.setDefault(Locale.US);</strong> - Para setar o sistema monetário;</li>
   <li><strong>sc.close();</strong> - Para limpar o buffer.</li>
-	<ul>
-		<li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços);</li>
-		<li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
-		<li><strong>sc.nextLine()</strong> - para ler um texto até a quebra de linha;</li>
-		<li><strong>sc.nextBoolean</strong> - para ler um típo lógico;</li>
-		<li><strong>sc.nextInt</strong> - para ler um número inteiro;</li>
-		<li><strong>sc.nextShort</strong> - para ler um número short;</li>
-		<li><strong>sc.nextFloat()</strong> - para ler um número do tipo float com ponto flutuante.</li>
-		<li><strong>sc.nextDouble()</strong> - para ler um número do tipo double com ponto flutuante.</li>
-	</ul>
+</ul>
+
+<ul>
+	<li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços);</li>
+	<li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
+	<li><strong>sc.nextLine()</strong> - para ler um texto até a quebra de linha;</li>
+	<li><strong>sc.nextBoolean</strong> - para ler um típo lógico;</li>
+	<li><strong>sc.nextInt</strong> - para ler um número inteiro;</li>
+	<li><strong>sc.nextShort</strong> - para ler um número short;</li>
+	<li><strong>sc.nextFloat()</strong> - para ler um número do tipo float com ponto flutuante.</li>
+	<li><strong>sc.nextDouble()</strong> - para ler um número do tipo double com ponto flutuante.</li>
 </ul>
 
 <h3>Tipos de saídas via console</h3>
