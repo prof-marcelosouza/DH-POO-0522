@@ -160,7 +160,7 @@
 <h3>Modificadores de acesso</h3>
 <ul>
   <li><strong>private</strong> - O membro só pode ser acessado na própria classe;</li>
-  <li><strong><nada)</strong> - O membro só pode ser acessado nas classes do mesmo pacote;</li>
+  <li><strong>(nada)</strong> - O membro só pode ser acessado nas classes do mesmo pacote;</li>
   <li><strong>protected</strong> - O membro só pode ser acessado no mesmo pacote e em subclasses de pacotes diferentes;</li>
   <li><strong>public</strong> - O membro só pode ser por todas as classes desde que se exporte o seu pacote onde ele será usado.</li>
 </ul>
