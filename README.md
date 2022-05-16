@@ -127,7 +127,6 @@
   <li><strong>Scanner sc = new Scanner(System.in);</strong> - Para instanciar um objeto da Classe Scanner;</li>
   <li><strong>Locale.setDefault(Locale.US);</strong> - Para setar o sistema monetário;</li>
   <li><strong>sc.close();</strong> - Para limpar o buffer.</li>
-  
 	<ul>
 		<li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços);</li>
 		<li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
