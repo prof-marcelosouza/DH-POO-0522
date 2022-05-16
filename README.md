@@ -56,50 +56,66 @@
   <li><strong>byte:</strong> Inteiros Pequenos:</li>
       <ul>
 		  <li>Tamanho: 8 bits (1 byte)</li>
-	      <li><strong>-128</strong></li>
-	      <li><strong>127</strong></li>
+			<ul>
+				<li><strong>-128</strong></li>
+				<li><strong>127</strong></li>
+			</ul>
       </ul>
   <li><strong>short:</strong> Inteiros:</li>
       <ul>
 		  <li>Tamanho: 16 bits (2 bytes)</li>
-	      <li><strong>-32768</strong></li>
-	      <li><strong>32767</strong></li>
+			<ul>
+				<li><strong>-32768</strong></li>
+				<li><strong>32767</strong></li>
+			</ul>
       </ul>
   <li><strong>int:</strong> Inteiros grandes:</li>
       <ul>
 		  <li>Tamanho: 32 bits (4 bytes)</li>
-	      <li><strong>-2.147.483.648</strong></li>
-	      <li><strong>2.147.483.647</strong></li>
+			<ul>
+				<li><strong>-2.147.483.648</strong></li>
+				<li><strong>2.147.483.647</strong></li>
+			</ul>
       </ul>
   <li><strong>long:</strong> Inteiros muito grandes:</li>
       <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
-	      <li><strong>-9.223.372.036.854.775.808</strong></li>
-	      <li><strong>9.223.372.036.854.775.807</strong></li>
+			<ul>
+				<li><strong>-9.223.372.036.854.775.808</strong></li>
+				<li><strong>9.223.372.036.854.775.807</strong></li>
+			</ul>
       </ul>
   <li><strong>float:</strong> Número com vírgula, menor capacidade:</li>
       <ul>
 		  <li>Tamanho: 32 bits (4 bytes)</li>
-	      <li><strong>-3,402823e38</strong></li>
-	      <li><strong>3,402823e38</strong></li>
+			<ul>
+				<li><strong>-3,402823e38</strong></li>
+				<li><strong>3,402823e38</strong></li>
+			</ul>
       </ul>
   <li><strong>double:</strong> Número com vírgula, maior capacidade:</li>
 	  <ul>
 		  <li>Tamanho: 64 bits (8 bytes)</li>
-	      <li><strong>-1,79769313486232e308</strong></li>
-	      <li><strong>1,79769313486232e308</strong></li>
+			<ul>
+				<li><strong>-1,79769313486232e308</strong></li>
+				<li><strong>1,79769313486232e308</strong></li>
+			</ul>
       </ul>
   <li><strong>char:</strong> Um caractere (Ex: 'a') Unicode.</li>
 	  <ul>
 		  <li>Tamanho: 16 bits (2 bytes)</li>
-	      <li><strong>0</strong></li>
-	      <li><strong>65535</strong></li>
+			<ul>
+				<li><strong>0</strong></li>
+				<li><strong>65535</strong></li>
+			</ul>
       </ul>
   <li><strong>boolean:</strong> Verdadeiro ou falso (true/false).</li>
 	  <ul>
 		  <li>Tamanho: 1 bit</li>
-	      <li><strong>false</strong></li>
-	      <li><strong>true</strong></li>
+			  <ul>
+	            <li><strong>false</strong></li>
+	            <li><strong>true</strong></li>
+		    </ul>
       </ul>
 </ul>
 
@@ -109,7 +125,9 @@
   <li><strong>sc.next()</strong> - para ler uma palavra (texto sem espaços);</li>
   <li><strong>sc.next().charAt(0)</strong> - para ler um caractere;</li>
   <li><strong>sc.nextLine()</strong> - para ler um texto até a quebra de linha;</li>
+  <li><strong>sc.nextBoolean</strong> - para ler um típo lógico;</li>
   <li><strong>sc.nextInt</strong> - para ler um número inteiro;</li>
+  <li><strong>sc.nextShort</strong> - para ler um número short;</li>
   <li><strong>sc.nextFloat()</strong> - para ler um número do tipo float com ponto flutuante.</li>
   <li><strong>sc.nextDouble()</strong> - para ler um número do tipo double com ponto flutuante.</li>
 </ul>

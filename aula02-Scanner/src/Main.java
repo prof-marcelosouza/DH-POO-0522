@@ -6,12 +6,21 @@ public class Main {
 
         int n1, n2;
         float f1, f2;
+        boolean pgto;
+        short idade;
+
         Scanner ler = new Scanner(System.in);
 
         System.out.print("Digite o valor de n1: ");
         n1 = ler.nextInt();
         System.out.print("Digite o valor de n2: ");
         n2 = ler.nextInt();
+
+        System.out.print("Digite se o valor está pago: ");
+        pgto = ler.nextBoolean();
+
+        System.out.print("Digite o valor de idade: ");
+        idade = ler.nextShort();
 
         System.out.print("Digite o valor de f1: ");
         f1 = ler.nextFloat();
