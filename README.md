@@ -47,10 +47,11 @@
 </ul>
 
 <ul>
-  <li><strong>Alt + Insert:</strong> Abre o menu generate.</li>
-  <li><strong>Alt + Enter:</strong> Abre sugestões automáticas.</li>
-  <li><strong>Ctrl + d:</strong> Duplica a linha corrente.</li>
-  <li><strong>Digitar main + TAB:</strong> Autocompleta o método main.</li>
+  <li><strong>Alt + Insert:</strong> Abre o menu generate;</li>
+  <li><strong>Alt + Enter:</strong> Abre sugestões automáticas;</li>
+  <li><strong>Ctrl + d:</strong> Duplica a linha corrente;</li>
+  <li><strong>Ctrl + Alt + l:</strong> <i>Indent Lines</i>, para ajustar o alinhamento das linhas;</li>
+  <li><strong>Digitar main + TAB:</strong> Autocompleta o método main;</li>
   <li><strong>Digitar sout + TAB:</strong> Autocompleta o System.out.println.</li>
 </ul>
 
