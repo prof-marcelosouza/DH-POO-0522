@@ -46,6 +46,7 @@ public class Main {
         System.out.println("Divisão de n1 \\ n2: " + divisao);
 
         ler.close();
+
     }
 
 }
