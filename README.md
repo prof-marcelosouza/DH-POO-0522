@@ -140,6 +140,32 @@
 	<li><strong>sc.nextDouble()</strong> - para ler um número do tipo double com ponto flutuante.</li>
 </ul>
 
+```Java
+byte b1 = -12;
+System.out.println("Meu número byte: " + b1);
+
+short s1 = 16522;
+System.out.println("Meu número short: " + s1);
+
+int i1 = 520;
+System.out.println("Meu número inteiro: " + i1);
+
+long l1 = 550L;
+System.out.println("Meu número long: " + l1);
+
+float f1 = 2147.55f;
+System.out.println("Meu número float: " + f1);
+
+double d1 = 21.54;
+System.out.println("Meu número long: " + l1);
+
+char c1 = 'C';
+System.out.println("Meu char: " + c1);
+
+boolean bo1 = true;
+System.out.println("Meu boolean: " + bo1);
+```
+
 <h3>Tipos de saídas via console</h3>
 <ul>
   <li><strong>System.out</strong></li>
