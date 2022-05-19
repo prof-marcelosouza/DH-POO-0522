@@ -8,7 +8,7 @@ public class Conta {
     protected double limite;
 
     // Sobrecarga de Construtores.
-    public Conta() {
+    public Conta(int nome, int nro, double valor) {
     }
 
     public Conta(int nro, String nome, double valor) {
