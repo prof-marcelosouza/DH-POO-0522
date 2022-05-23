@@ -12,10 +12,10 @@ public class Programa {
 
         double salario = 2550.25;
 
-        //v1.nome = "Joana";
-        //v1.sobrenome = "Ribeiro";
-        //v1.registro = "CRV55214";
-        //v1.salario = 2600.50;
+        v1.nome = "Joana";
+        v1.sobrenome = "Ribeiro";
+        v1.registro = "CRV55214";
+        v1.salario = 2600.50;
     }
 
 }
