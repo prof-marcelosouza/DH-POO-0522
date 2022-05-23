@@ -49,6 +49,7 @@
 <ul>
   <li><strong>Alt + Insert:</strong> Abre o menu generate;</li>
   <li><strong>Alt + Enter:</strong> Abre sugestões automáticas;</li>
+  <li><strong>Alt + Seta Direcional | Esquerda | Direita:</strong> Navegar entre as abas abertas;</li>
   <li><strong>Ctrl + d:</strong> Duplica a linha corrente;</li>
   <li><strong>Ctrl + /:</strong> Comenta a(s) linha(as) corrente(s) selecionada(s);</li>
   <li><strong>Ctrl + Alt + l:</strong> <i>Indent Lines</i>, para ajustar o alinhamento das linhas;</li>
