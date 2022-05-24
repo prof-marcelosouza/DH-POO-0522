@@ -197,13 +197,28 @@ System.out.println("Meu boolean: " + bo1);
   <li><strong>public</strong> - O membro pode ser acessado por todas as classes desde que se exporte o seu pacote onde ele será usado.</li>
 </ul>
 
-<h3>Algumas opções para trabalhar com data</h3>
+<h3>Trabalhando com datas no Java</h3>
 <ul>
-  <li>Classe <strong>Date</strong></li>
+  <li>Classe <strong>Date</strong> - representa um instante (pacote java.util)</li>
+  <li>https://docs.oracle.com/javase/10/docs/api/java/util/Date.html</li>
+	<ul>
+	  <li>Um objeto Date armazena um número inteiro (Long) em milissegundos a partir das 0 horas do dia 01/01/1970 (GMT - Greenwich Mean Time)</li>
+	</ul>
+  </li>
 </ul>
 <ul>
-  <li>Classe <strong>SimpleDateFormat</strong></li>
+  <li>Classe <strong>SimpleDateFormat</strong> - classe para converter date para String</li>
+  <li>https://docs.oracle.com/javase/10/docs/api/java/text/SimpleDateFormat.html</li>
+	<ul>
+		<li>dd/MM/yyyy - saída: <strong>01/05/2022</strong></li>
+		<li>dd/MM/yyyy HH:mm:ss - saída: <strong>01/05/2022 18:35:15</strong></li>
+	</ul>
 </ul>
 <ul>
-  <li>Classe <strong>Instant</strong></li>
+  <li>Padrão <strong>ISO 8601</strong> e a classe Instant</li>
+    <ul>
+		<li>Formato: <strong>yyyy-MM-ddTHH:mm:ssZ</strong></li>
+		<li>Exemplo: <strong>"2022-06-01T14:30:45Z"</strong></li>
+		<li>Java:<strong> Date d1 = Date.from(Instant.parse("2022-06-01T14:30:45Z"));</strong></li>
+	</ul>
 </ul>
