@@ -199,11 +199,11 @@ System.out.println("Meu boolean: " + bo1);
 
 <h3>Algumas opções para trabalhar com data</h3>
 <ul>
-  <li><strong>Classe Date</strong></li>
+  <li>Classe <strong>Date</strong></li>
 </ul>
 <ul>
-  <li><strong>Classe SimpleDateFormat</strong></li>
+  <li>Classe <strong>SimpleDateFormat</strong></li>
 </ul>
 <ul>
-  <li><strong>Classe Instante</strong></li>
+  <li>Classe <strong>Instant</strong></li>
 </ul>
