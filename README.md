@@ -250,10 +250,10 @@ System.out.println("Meu boolean: " + bo1);
 
 ```Java
 try {
-	// Tente comandos
+	// Tentativa de comandos
 }
 catch (ExceptionType e) {
-	// Capture exceções
+	// Captura de exceções
 }
 ```
 
@@ -261,10 +261,10 @@ catch (ExceptionType e) {
 
 ```Java
 try {
-	// Tente comandos
+	// Tentativa de comandos
 }
 catch (ExceptionType e) {
-	// Capture exceções
+	// Captura de exceções
 }
 finally {
 	// Comandos finais independentes dos blocos Try ou Catch
