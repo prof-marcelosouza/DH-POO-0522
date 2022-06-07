@@ -229,17 +229,17 @@ System.out.println("Meu boolean: " + bo1);
     <ul>
 		<li>Error: <strong>Erros não esperados na programação.</strong></li>
 			<ul>
-				<li>OutOfMemoryError: <strong> Estouro de memória.</strong></li>
+				<li>OutOfMemoryError: <strong> Estouro de memória;</strong></li>
 				<li>VirtualMachineError: <strong> Erro na máquina virtual.</strong></li>
 			</ul>
 	</ul>
 	<ul>
 		<li>Exception: <strong> Erros que devem ser tratados.</strong></li>
 			<ul>
-				<li>IOException: <strong> Erro de enrada e saída.</strong></li>
-				<li>RuntimeException: <strong> Facultativo o tratamento</strong></li>
+				<li>IOException: <strong> Erro de enrada e saída;</strong></li>
+				<li>RuntimeException: <strong> Facultativo o tratamento.</strong></li>
 					<ul>
-						<li>IndexOutOfBoundsException: <strong> Uma posição de array inesistente.</strong></li>
+						<li>IndexOutOfBoundsException: <strong> Uma posição de array inesistente;</strong></li>
 						<li>NullPointerException: <strong> Variável nula.</strong></li>
 					</ul>
 			</ul>	
@@ -250,9 +250,9 @@ System.out.println("Meu boolean: " + bo1);
 
 ```Java
 try {
-
+	// Tente comandos
 }
 catch (ExceptionType e) {
-
+	// Capture exceções
 }
 ```
