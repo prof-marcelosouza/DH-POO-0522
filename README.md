@@ -245,3 +245,16 @@ System.out.println("Meu boolean: " + bo1);
 			</ul>	
 	</ul>
 </ul>
+
+<h3>Estrutura Try-Catch</h3>
+```Java
+try {
+
+}
+catch (ExceptionType e) {
+
+}
+catch (ExceptionType e) {
+
+}
+```
