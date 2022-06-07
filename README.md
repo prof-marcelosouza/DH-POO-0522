@@ -261,12 +261,12 @@ catch (ExceptionType e) {
 
 ```Java
 try {
-	// Tentativa de comandos
+	// Tentativa de comandos;
 }
 catch (ExceptionType e) {
-	// Captura de exceções
+	// Captura de exceções;
 }
 finally {
-	// Comandos finais independentes dos blocos Try ou Catch
+	// Comandos finais independentes dos blocos Try ou Catch.
 }
 ```
