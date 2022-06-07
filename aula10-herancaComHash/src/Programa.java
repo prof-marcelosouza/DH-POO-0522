@@ -17,8 +17,12 @@ public class Programa {
         System.out.println(emp1);
 
         System.out.println("Instância do segundo empregado");
-        Empregado emp2 = new Empregado(3, "Patrick", "10100", 1500.0, 220.0);
+        Empregado emp2 = new Empregado(2, "Patrick", "10100", 1500.0, 220.0);
         System.out.println(emp2);
+
+        System.out.println("Instância do terceiro empregado");
+        Empregado emp3 = new Empregado(4, "Paulo", "10100", 1500.0, 220.0);
+        System.out.println(emp3);
 
         System.out.println("");
         System.out.println("");
@@ -29,5 +33,9 @@ public class Programa {
         } else {
             System.out.println("Os conteúdos dos atributos NÃO SÃO IGUAIS.");
         }
+
+        System.out.println(emp1.hashCode());
+        System.out.println(emp2.hashCode());
+        System.out.println(emp3.hashCode());
     }
 }

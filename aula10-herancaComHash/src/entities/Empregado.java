@@ -100,13 +100,13 @@ public class Empregado {
         }
     }
 
-    @Override
-    public int hashCode() {
-        int hash = 31;
-        hash = hash * nome.hashCode();
-        hash = hash * arquivo.hashCode();
-        return hash;
-    }
+//    @Override
+//    public int hashCode() {
+//        int hash = 31;
+//        hash = hash * nome.hashCode();
+//        hash = hash * arquivo.hashCode();
+//        return hash;
+//    }
 
     @Override
     public String toString() {
