@@ -256,3 +256,17 @@ catch (ExceptionType e) {
 	// Capture exceções
 }
 ```
+
+<h3>Estrutura Try-Catch-Finally</h3>
+
+```Java
+try {
+	// Tente comandos
+}
+catch (ExceptionType e) {
+	// Capture exceções
+}
+finally {
+	// Comandos finais independentes dos blocos Try ou Catch
+}
+```
