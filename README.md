@@ -247,7 +247,7 @@ System.out.println("Meu boolean: " + bo1);
 </ul>
 
 <h3>Estrutura Try-Catch</h3>
-```Java
+```
 try {
 
 }
