@@ -6,7 +6,7 @@ public class Equipe {
 
     private int id;
     private String nome;
-    private ArrayList<Jogador> listaJogadores = new ArrayList<>();
+    private List<Jogador> listaJogadores = new ArrayList<>();
 
     public Equipe(int id, String nome) {
         this.id = id;
