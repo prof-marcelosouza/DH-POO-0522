@@ -7,19 +7,19 @@ public class Programa {
     public static void main(String[] args) {
 
         // É uma interface, portanto não pode ser instanciada.
-//        List nossaLista = new ArrayList(); // Implementa o List(Interface)
-//
-//        nossaLista.add("Felipe");
-//        nossaLista.add("Bruno");
-//        nossaLista.add("Julia");
-//        nossaLista.add("Jade");
-//        nossaLista.add("Natashy");
+        List nossaLista = new ArrayList(); // Implementa o List(Interface)
 
-//        System.out.println("Percorrendo com o FOR a nossaLista:");
-//
-//        for (int i = 0; i < nossaLista.size(); i++) {
-//            System.out.println(nossaLista.get(i));
-//        }
+        nossaLista.add("Felipe");
+        nossaLista.add("Bruno");
+        nossaLista.add("Julia");
+        nossaLista.add("Jade");
+        nossaLista.add("Natashy");
+
+        System.out.println("Percorrendo com o FOR a nossaLista:");
+
+        for (int i = 0; i < nossaLista.size(); i++) {
+            System.out.println(nossaLista.get(i));
+        }
 
 //        System.out.println("Percorrendo com o ITERATOR a nossaLista:");
 //
