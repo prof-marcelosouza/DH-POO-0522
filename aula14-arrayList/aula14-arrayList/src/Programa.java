@@ -10,7 +10,7 @@ public class Programa {
         List nossaLista = new ArrayList(); // Implementa o List(Interface)
 
         nossaLista.add("Felipe");
-        nossaLista.add("Bruno");
+        nossaLista.add("Bruna");
         nossaLista.add("Julia");
         nossaLista.add("Jade");
         nossaLista.add("Natashy");
