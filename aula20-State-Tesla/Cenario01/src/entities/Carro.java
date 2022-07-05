@@ -43,8 +43,8 @@ public class Carro {
 
     public void acelerar() {
         getEstadoAtual().acelerar();
-        System.out.print("Velocidade atual " + getVelocidadeAtual() +
-                ". Combustível restante : " + getCombustivelAtual());
+        System.out.println("Velocidade atual " + getVelocidadeAtual());
+        System.out.println("Combustível restante : " + getCombustivelAtual());
     }
 
     public void freiar() {

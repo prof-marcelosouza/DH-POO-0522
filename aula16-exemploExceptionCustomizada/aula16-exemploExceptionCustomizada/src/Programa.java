@@ -30,6 +30,9 @@ public class Programa {
         finally {
             System.out.println("Programa finalizado!");
         }
+
+        double resp = 15 + 45 / 3 -5;
+        System.out.println(resp);
     }
 
 }

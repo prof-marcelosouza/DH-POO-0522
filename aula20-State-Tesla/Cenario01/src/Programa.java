@@ -4,7 +4,7 @@ public class Programa {
 
     public static void main(String[] args) {
 
-        Carro c1 = new Carro(0);
+        Carro c1 = new Carro(50);
 
         c1.ligar();
         c1.acelerar();
